@@ -1,0 +1,2 @@
+# BeatList
+ BeatList é uma aplicação web pensada para ajudar você a gerenciar seu tempo de forma mais leve e agradável. Imagine poder organizar suas tarefas enquanto curte suas músicas favoritas, tudo em um só lugar. Com o BeatList, você pode criar sua lista de afazeres e, ao mesmo tempo, tocar aquela música que te motiva, que te faz sentir bem. Basta arrastar a música que você gosta para o site e deixá-la tocando enquanto você se concentra no que precisa ser feito. 
